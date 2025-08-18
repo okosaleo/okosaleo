@@ -1,16 +1,23 @@
-## Hi there 👋
+#Yo, I'm Leo! 👋
+ A software developer based in Lagos, Nigeria🇳🇬. currently building innovative apps with AI and web technologies. The only things i do with my life are watch anime and write code😂 .
+🚀 About Me
 
-<!--
-**okosaleo/okosaleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Building: Stuff I like with GO and TypeScript.
+🌍 Location: Nigeria, West Africa.
+🧠 Learning: APIs, AI integration, and scalable app development.
 
-Here are some ideas to get you started:
+🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:  JavaScript, TypeScript, GO HTML/CSS
+Tools/Frameworks: Next.js, React, Express.js
+Other: Git, Markdown, Docker
+
+
+📬 Get in Touch
+
+Email: okosaleonel@gmail.com
+X: @okosaleonard
+LinkedIn: linkedin.com/in/okosaleonard/
+Portfolio: https://okosaleonard.site/
+
+Feel free to connect or check out my repositories below! 🚀
