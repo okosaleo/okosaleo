@@ -13,11 +13,6 @@ I'm a software developer from Lagos, Nigeria 🇳🇬, crafting innovative apps 
 - **Tools/Frameworks**: Next.js, React, Express.js
 - **Other**: Git, Markdown, Docker
 
-## 📚 Current Projects
-- Conloquy**: Building a video calling app with the xAI Grok API for real-time interactions.
-- Portfolio Site: Showcasing my work at [okosaleonard.site](https://okosaleonard.site/).
-- Exploring more AI and web projects—check my repos for updates!
-
 ## 📬 Get in Touch
 - **Email**: [okosaleonel@gmail.com](mailto:okosaleonel@gmail.com)
 - **X**: [@okosaleonard](https://x.com/okosaleonard)
